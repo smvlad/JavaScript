@@ -1,4 +1,4 @@
-// changed in 3projects
+// changed in main
 
 var ссылка=document.getElementById('knopka');
 ссылка.addEventListener("click",s);
