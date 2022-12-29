@@ -1,3 +1,4 @@
+// 3projects
 var ссылка=document.getElementById('knopka');
 ссылка.addEventListener("click",s);
 var ссылка2=document.getElementById('m1');
